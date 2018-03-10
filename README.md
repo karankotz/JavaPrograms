@@ -1,2 +1,0 @@
-# JavaPrograms
-Java Programs
