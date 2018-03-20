@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class Main {
     
+	//function to sort the stack containing integers
     public static Stack<Integer> sort(Stack<Integer> stack)
     {
         Stack<Integer> helper = new Stack<Integer>();
